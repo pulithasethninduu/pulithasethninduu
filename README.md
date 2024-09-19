@@ -16,4 +16,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pulithasethninduu&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
 
 <br>
-<div align="center"><br> <img src="https://profile-counter.glitch.me/pulithasethninduu/count.svg" /><br>Profile Viewers</div>
+
